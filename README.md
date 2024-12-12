@@ -7,13 +7,3 @@ I'm a **Microsoft Most Valuable Professional (MVP)** in Enterprise Mobility ![St
 As a seasoned IT professional, I specialize in mobile device management (MDM) and mobile application management (MAM). My aim is to leverage Microsoft Intune to strengthen IT infrastructures and enhance security protocols.
 
 Check out my blog for more insights: [Intune in Real Life](https://www.intuneirl.com/).
-
-## My Work
-Here's a snapshot of what I do:
-
-```bash
-# Command to navigate to my repositories
-cd pathaksomesh06
-
-# List of my top projects
-ls projects
